@@ -1,84 +1,191 @@
-# Ahmed Sghaier
+<div align="center">
 
-## Senior Full-Stack Engineer | React, Node.js, TypeScript, PostgreSQL
+<img src="./assets/banner.svg" width="100%" alt="Ahmed Sghaier — Senior Full-Stack Engineer" />
 
-Senior Full-Stack Engineer based in Germany, focused on building production-ready web applications, APIs, data-driven platforms, and ML-integrated systems.
+<br/>
 
-I work across the full delivery cycle: frontend architecture, backend services, database-backed features, API design, performance optimization, CI/CD, monitoring, and production support. My strongest technical areas are React, Node.js, TypeScript, PostgreSQL, Java, Spring Boot, Python, GitLab CI/CD, Jenkins, and data-focused application development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sghaier-449778137)
+[![Email](https://img.shields.io/badge/Email-a7mado008@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a7mado008@gmail.com)
 
-## What I Build
+**🌍 Open to select Senior Full-Stack opportunities · Remote, worldwide**
 
-- Full-stack web applications with React, Node.js, TypeScript, and PostgreSQL
-- Production APIs, backend services, SQL-backed workflows, and data models
-- Frontend interfaces with clean component structure and measurable performance improvements
-- Java and Spring Boot business applications
-- Python automation, machine-learning APIs, and predictive analytics features
-- CI/CD-supported repositories with clear setup, testing, documentation, and maintainable delivery practices
+<br/>
 
-## Career Focus
+<img src="./assets/highlights.svg" width="100%" alt="Impact at a glance: 8+ years, 2.5s to 700ms, 50GB+ pipeline growth avoided, BMW · LBBW · bulwiengesa" />
 
-My career combines full-stack product engineering, enterprise systems, data-driven applications, and Linux/open-source experience. I have delivered production software in real-estate analytics, banking, predictive maintenance, text analytics, CMS/web platforms, and university/freelance-style application work.
+</div>
 
-Across these roles, I have worked on frontend and backend features, API design, SQL-backed workflows, reporting systems, performance improvements, CI/CD pipelines, production support, monitoring, automation, and ML-integrated functionality.
+---
 
-## Professional Highlights
+## 🚀 About Me
 
-- Delivered full-stack product features across real-estate analytics, banking systems, predictive maintenance, text analytics, and business web applications.
-- Built React, Angular, Node.js, Java, Spring Boot, Python, PHP, and SQL-backed functionality across frontend, backend, reporting, and data workflows.
-- Developed production APIs and database-backed features using PostgreSQL, SQL, REST APIs, Knex.js, Java, Node.js, and Python.
-- Improved application performance and user experience in complex data-heavy interfaces, including reducing one object-view workflow from about 2.5 seconds to about 700 milliseconds.
-- Built a Python and machine-learning-based price prediction API, replacing a database-heavy monthly processing pipeline.
-- Developed and maintained Calypso banking-system features, workflow rules, scheduled tasks, PDF reporting, and ELK/Elasticsearch monitoring improvements.
-- Created predictive failure-detection work using event logs, sensor data, machine-learning methods, and dashboard components.
-- Worked on text analytics and Named Entity Recognition features for data-driven web applications.
-- Contributed Linux, Ubuntu, Open Source, and OpenStack educational material through the Ubuntu TunisianTeam community.
-- Built and maintained earlier B2B web software with PHP, SQL, JavaScript, Node.js, frontend/backend features, bug fixes, and performance improvements.
+I'm a **Senior Full-Stack Engineer** who helps teams ship reliable, **data-heavy products end-to-end** — from frontend architecture and API design to database modeling, performance, CI/CD, and production support.
 
-## Tech Stack
+My work spans **real-estate analytics platforms, production banking systems, and ML-driven predictive tooling**, and I'm equally comfortable owning a feature from first commit to production or improving a system others already depend on.
 
-**Frontend:** React, Angular, TypeScript, JavaScript, HTML, CSS, SCSS/SASS, Tailwind CSS, Bootstrap, Vite  
-**Backend:** Node.js, Java, Spring Boot, Python, PHP, REST APIs, Knex.js  
-**Databases:** PostgreSQL, SQL, MySQL, MongoDB, Oracle, SQL Server, NoSQL  
-**DevOps and Tools:** Git, GitLab CI/CD, Jenkins, Docker, Linux, JUnit, Yarn, Biome  
-**Data and AI:** Machine Learning, ML APIs, Data Mining, Event-Log Analysis, Predictive Analytics, ELK/Elasticsearch
+- 🔭 Currently building the **RIWIS** real-estate data & analytics system at **bulwiengesa GmbH**
+- ⚡ I care about **measurable impact** — faster load times, leaner pipelines, reliable APIs
+- 🧠 Comfortable at the intersection of **full-stack engineering and machine learning**
+- 🗣️ German (C1) · English (B2) · French (fluent) · Arabic (native)
 
-## Portfolio Themes
+---
 
-This profile is focused on practical engineering work with clear business value:
+## 🛠️ Tech Stack
 
-- **Booking and administration systems:** business workflows, validation, data modeling, and backend logic.
-- **Data-driven applications:** dashboards, analytics, reporting, APIs, and PostgreSQL-backed features.
-- **Maps and route applications:** location-based features, route calculation, and external API integrations.
-- **ML-integrated tools:** prediction APIs, data mining, event-log analysis, and automation.
-- **CI/CD-ready repositories:** clean README files, setup guides, tests, linting, and architecture notes.
+**Frontend**
 
-## Open Source and Linux Background
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-- Presented and contributed educational material around Ubuntu, Linux, Open Source, and OpenStack through the Ubuntu TunisianTeam community.
-- Covered Linux certification topics in an academic/training context at Universite Privee de Sousse.
-- Built practical Linux and open-source experience through community presentations, workshops, development tooling, CI/CD workflows, and production engineering work.
+**Backend**
 
-## Certifications
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-- German C1 Certificate
+**Databases**
 
-## Languages
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-D26B38?style=flat-square&logo=knexdotjs&logoColor=white)
 
-- German: C1
-- English: B2 professional and technical communication
-- French: very good
-- Arabic: native
+**DevOps & Tooling**
 
-## Engineering Principles
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- Clear, maintainable code
-- Practical architecture over unnecessary complexity
-- Reliable APIs and database design
-- Documentation that helps projects run and scale
-- Measurable performance improvements
-- Testing, CI/CD, and production-minded delivery
+**Data & AI**
 
-## Connect
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-8E44AD?style=flat-square)
 
-- LinkedIn: [linkedin.com/in/ahmed-sghaier-449778137](https://www.linkedin.com/in/ahmed-sghaier-449778137)
-- Email: [a7mado008@gmail.com](mailto:a7mado008@gmail.com)
+---
+
+## 💼 Professional Experience
+
+### 🏢 bulwiengesa GmbH — *Senior Full-Stack Engineer*
+`01/2021 – Present · Munich, Germany`
+
+End-to-end development of **RIWIS**, a real-estate data & analytics platform.
+
+> **Impact:** faster core workflows, a leaner data pipeline, and a print product reborn as an online feature.
+
+- ⚡ Reduced object-view load time from **~2.5s → ~700ms** (~3.5× faster)
+- 🤖 Built a **real-time price-prediction API** (Python + ML), replacing a monthly DB pipeline and preventing **50GB+** table growth
+- 📊 Digitized the *Dev-Monitor* report from an annual print magazine into an always-available online product
+- 🔧 Implemented CI/CD workflows; partnered with product, analysts, and data science
+- **Stack:** React · Node.js · TypeScript · PostgreSQL · Python/ML · Tailwind · Vite · Jenkins · GitLab CI · ELK
+
+### 🏦 LBBW — *IT Solution Designer / Software Developer*
+`10/2019 – 12/2020 · Stuttgart, Germany`
+
+Production **Calypso** banking system — features, stability, and monitoring.
+
+> **Impact:** reliable regulatory delivery, faster reporting, and clearer operational visibility.
+
+- Delivered regulatory/business-driven changes, workflow rules, and scheduled tasks
+- Automated **PDF confirmation & report generation** and reduced generation time
+- Integrated **Elasticsearch/ELK** for centralized operational visibility
+- **Stack:** Java 8+ · SQL · XML · JBoss · JUnit · Elasticsearch
+
+### 🚗 BMW Group — *Master Thesis / Data Scientist*
+`02/2019 – 09/2019 · Munich, Germany`
+
+**Predictive failure detection** for test benches using event logs & sensor data.
+
+- Built an initial ML model for failure detection and future-failure prediction
+- Identified root causes from unstructured, heterogeneous data sources
+- **Stack:** Python · Machine Learning · Data Mining · MongoDB · Angular
+
+### 🔎 Glanos GmbH — *Full-Stack / ML Software Developer*
+`08/2017 – 02/2019 · Munich, Germany`
+
+Data-driven web apps and text-analytics features (NER, matching, ML modules).
+
+- **Stack:** Angular · Python · Node.js · Machine Learning · Text Analytics
+
+<details>
+<summary><b>📁 Earlier experience</b></summary>
+
+<br/>
+
+- **LMU – Chair of Data Science** · Frontend Web Developer · `2017–2018` — Angular 5, forms, routing, HTTP, responsive UX
+- **Elunic Software Engineering** · Software Developer · `2016–2017` — B2B web, PHP/SQL/JS/Node.js
+- **SEMCO Software Engineering** · Software Developer · `2015–2016` — web software, backend & database features
+- **Cayero Internet** · PHP Developer · `2015` — full-stack PHP web development
+
+</details>
+
+---
+
+## 🧪 Featured Projects
+
+### 🧾 [Rapid-Test Booking Platform](https://github.com/A7med-Sghaier/rapid-test-booking-platform)
+Full-stack booking platform with JWT auth, QR/PDF workflows, email notifications, and admin dashboards.
+<br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🏢 [Agency Platform — as-tinodev-web](https://github.com/A7med-Sghaier/as-tinodev-web)
+Full-stack agency site with a PostgreSQL-backed CMS, admin auth, lead management, media uploads, tests, and GitHub Actions CI.
+<br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### 🌫️ [Air-Quality Prediction Platform](https://github.com/A7med-Sghaier/air-quality-prediction-platform)
+Full-stack air-quality prediction platform with an Angular dashboard, Python Falcon API, and ML preprocessing workflows.
+<br/>![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+### 📰 [InnoLab CMS Portal](https://github.com/A7med-Sghaier/innolab-cms-portal)
+Dockerized Angular + Strapi CMS portal with sanitized demo data and copyright-safe placeholder media.
+<br/>![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<sub>Also: [product-rental-javafx](https://github.com/A7med-Sghaier/product-rental-javafx) — JavaFX + SQLite desktop app for managing product rentals.</sub>
+
+---
+
+## 🤝 What I Bring to a Team
+
+- **End-to-end ownership** — I take features from architecture and API design through database, tests, CI/CD, and production support.
+- **Measurable performance wins** — I optimize real bottlenecks (e.g. **~2.5s → ~700ms**) instead of chasing micro-tweaks.
+- **ML-integrated delivery** — I bridge product engineering and machine learning, shipping prediction APIs and data-driven features into production.
+- **Production maturity** — CI/CD, monitoring (ELK/Elasticsearch), and clean, documented code that teams can maintain and scale.
+
+---
+
+## 🎯 Engineering Principles
+
+> Clear, maintainable code · Practical architecture over complexity · Reliable APIs & database design · Documentation that helps projects scale · Measurable performance wins · Testing, CI/CD, and production-minded delivery.
+
+---
+
+## 🐧 Open Source & Community
+
+- Presented educational material on **Ubuntu, Linux, Open Source, and OpenStack** with the *Ubuntu TunisianTeam* community
+- Covered Linux certification topics in academic/training contexts
+
+---
+
+<div align="center">
+
+### Let's build something great together
+
+Open to select **Senior Full-Stack** opportunities — **remote, worldwide**.<br/>
+Happy to talk through a role, a problem, or a collaboration.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sghaier-449778137)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a7mado008@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=A7med-Sghaier&color=0A66C2&style=flat-square&label=Profile+Views)
+
+</div>

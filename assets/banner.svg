@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Ahmed Sghaier — Senior Full-Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#141c2b"/>
+      <stop offset="1" stop-color="#1b2436"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .n  { font-family:'Segoe UI',Helvetica,Arial,sans-serif; font-weight:700; }
+      .t  { font-family:'Segoe UI',Helvetica,Arial,sans-serif; font-weight:600; }
+      .m  { font-family:'Segoe UI',Helvetica,Arial,sans-serif; font-weight:400; }
+      .mono { font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="240" rx="16" fill="url(#bg)"/>
+  <rect width="1000" height="240" rx="16" fill="url(#glow)"/>
+  <rect x="0" y="0" width="6" height="240" rx="3" fill="url(#accent)"/>
+
+  <!-- subtle dot grid -->
+  <g fill="#ffffff" opacity="0.05">
+    <circle cx="720" cy="46" r="2"/><circle cx="760" cy="46" r="2"/><circle cx="800" cy="46" r="2"/><circle cx="840" cy="46" r="2"/><circle cx="880" cy="46" r="2"/><circle cx="920" cy="46" r="2"/>
+    <circle cx="720" cy="86" r="2"/><circle cx="760" cy="86" r="2"/><circle cx="800" cy="86" r="2"/><circle cx="840" cy="86" r="2"/><circle cx="880" cy="86" r="2"/><circle cx="920" cy="86" r="2"/>
+    <circle cx="720" cy="126" r="2"/><circle cx="760" cy="126" r="2"/><circle cx="800" cy="126" r="2"/><circle cx="840" cy="126" r="2"/><circle cx="880" cy="126" r="2"/><circle cx="920" cy="126" r="2"/>
+  </g>
+
+  <!-- name + role -->
+  <text x="48" y="86" class="n" font-size="46" fill="#f0f6fc" letter-spacing="1.5">Ahmed Sghaier</text>
+  <text x="50" y="126" class="t" font-size="22" fill="url(#accent)">Senior Full-Stack Engineer</text>
+  <text x="50" y="158" class="mono" font-size="15" fill="#8b98a9">React &#183; Node.js &#183; TypeScript &#183; PostgreSQL &#183; Python / ML</text>
+
+  <!-- tagline -->
+  <text x="50" y="196" class="m" font-size="14.5" fill="#c9d3df">Building production-grade web platforms, APIs &amp; data-driven systems &#183; 8+ years</text>
+
+  <!-- open to remote pill -->
+  <g transform="translate(770,182)">
+    <rect x="0" y="0" width="182" height="30" rx="15" fill="#0d1117" stroke="#2dd4bf" stroke-opacity="0.5"/>
+    <circle cx="20" cy="15" r="4.5" fill="#2dd4bf"/>
+    <text x="34" y="20" class="t" font-size="12.5" fill="#a7f3e4" letter-spacing="0.5">OPEN TO REMOTE</text>
+  </g>
+</svg>
