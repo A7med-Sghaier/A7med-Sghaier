@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="Let's build something great together">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#141c2b"/>
+      <stop offset="1" stop-color="#1b2436"/>
+    </linearGradient>
+    <linearGradient id="facc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="fglow" cx="0.5" cy="0" r="0.8">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .ft { font-family:'Segoe UI',Helvetica,Arial,sans-serif; font-weight:700; }
+      .fs { font-family:'Segoe UI',Helvetica,Arial,sans-serif; font-weight:400; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="170" rx="16" fill="url(#fbg)"/>
+  <rect width="1000" height="170" rx="16" fill="url(#fglow)"/>
+
+  <text x="500" y="70" text-anchor="middle" class="ft" font-size="30" fill="#f0f6fc">Let's build something great together</text>
+  <rect x="440" y="88" width="120" height="3" rx="2" fill="url(#facc)"/>
+  <text x="500" y="122" text-anchor="middle" class="fs" font-size="15.5" fill="#c9d3df">Open to select Senior Full-Stack opportunities &#183; Remote, worldwide</text>
+
+  <!-- accent dots -->
+  <circle cx="470" cy="146" r="3" fill="#2dd4bf" opacity="0.9"/>
+  <circle cx="500" cy="146" r="3" fill="#38bdf8" opacity="0.9"/>
+  <circle cx="530" cy="146" r="3" fill="#2dd4bf" opacity="0.9"/>
+</svg>
