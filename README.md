@@ -15,18 +15,24 @@ I work across the full delivery cycle: frontend architecture, backend services, 
 - Python automation, machine-learning APIs, and predictive analytics features
 - CI/CD-supported repositories with clear setup, testing, documentation, and maintainable delivery practices
 
-## Current Focus
+## Career Focus
 
-I currently work as a Senior Full-Stack Engineer on RIWIS, a real-estate data and analytics platform. My work includes end-to-end feature delivery, React/Node.js development, PostgreSQL queries, API integrations, frontend and backend improvements, Python/ML integration, CI/CD workflows, and production support.
+My career combines full-stack product engineering, enterprise systems, data-driven applications, and Linux/open-source experience. I have delivered production software in real-estate analytics, banking, predictive maintenance, text analytics, CMS/web platforms, and university/freelance-style application work.
+
+Across these roles, I have worked on frontend and backend features, API design, SQL-backed workflows, reporting systems, performance improvements, CI/CD pipelines, production support, monitoring, automation, and ML-integrated functionality.
 
 ## Professional Highlights
 
-- Built and maintained production features for a real-estate analytics platform used for data-driven market insights.
-- Developed a real-time price prediction API using Python and machine-learning models, replacing a database-heavy monthly processing pipeline.
-- Improved a complex object-view UI and reduced loading time from about 2.5 seconds to about 700 milliseconds.
-- Digitized a print-based report product into an online downloadable product feature.
-- Developed Calypso banking-system features, workflow rules, scheduled tasks, PDF reporting, and operational monitoring improvements.
-- Built predictive failure-detection work using event logs, sensor data, machine-learning methods, and dashboard components.
+- Delivered full-stack product features across real-estate analytics, banking systems, predictive maintenance, text analytics, and business web applications.
+- Built React, Angular, Node.js, Java, Spring Boot, Python, PHP, and SQL-backed functionality across frontend, backend, reporting, and data workflows.
+- Developed production APIs and database-backed features using PostgreSQL, SQL, REST APIs, Knex.js, Java, Node.js, and Python.
+- Improved application performance and user experience in complex data-heavy interfaces, including reducing one object-view workflow from about 2.5 seconds to about 700 milliseconds.
+- Built a Python and machine-learning-based price prediction API, replacing a database-heavy monthly processing pipeline.
+- Developed and maintained Calypso banking-system features, workflow rules, scheduled tasks, PDF reporting, and ELK/Elasticsearch monitoring improvements.
+- Created predictive failure-detection work using event logs, sensor data, machine-learning methods, and dashboard components.
+- Worked on text analytics and Named Entity Recognition features for data-driven web applications.
+- Contributed Linux, Ubuntu, Open Source, and OpenStack educational material through the Ubuntu TunisianTeam community.
+- Built and maintained earlier B2B web software with PHP, SQL, JavaScript, Node.js, frontend/backend features, bug fixes, and performance improvements.
 
 ## Tech Stack
 
@@ -45,6 +51,12 @@ This profile is focused on practical engineering work with clear business value:
 - **Maps and route applications:** location-based features, route calculation, and external API integrations.
 - **ML-integrated tools:** prediction APIs, data mining, event-log analysis, and automation.
 - **CI/CD-ready repositories:** clean README files, setup guides, tests, linting, and architecture notes.
+
+## Open Source and Linux Background
+
+- Presented and contributed educational material around Ubuntu, Linux, Open Source, and OpenStack through the Ubuntu TunisianTeam community.
+- Covered Linux certification topics in an academic/training context at Universite Privee de Sousse.
+- Built practical Linux and open-source experience through community presentations, workshops, development tooling, CI/CD workflows, and production engineering work.
 
 ## Certifications
 
