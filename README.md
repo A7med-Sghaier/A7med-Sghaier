@@ -130,6 +130,15 @@ Documentation that helps projects scale · Measurable performance wins · Testin
 
 <div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
 
+## 🎓 Certifications
+
+| | |
+| :-- | :-- |
+| **[LFW111 — Introduction to Node.js](https://www.credly.com/badges/00c3ad03-de79-4782-896f-794ea9f895de/public_url)**<br/>The Linux Foundation · Sep 2025<br/><br/>![The Linux Foundation](https://img.shields.io/badge/The%20Linux%20Foundation-003764?style=flat-square&logo=linuxfoundation&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br/>[**Verify on Credly →**](https://www.credly.com/badges/00c3ad03-de79-4782-896f-794ea9f895de/public_url) | **[LFS101 — Introduction to Linux](https://www.credly.com/badges/eea280b5-a94a-40d5-9194-4c7df4ce81e0/public_url)**<br/>The Linux Foundation · Sep 2025 · ID `LF-s8gawrwd4p`<br/><br/>![The Linux Foundation](https://img.shields.io/badge/The%20Linux%20Foundation-003764?style=flat-square&logo=linuxfoundation&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)<br/>[**Verify on Credly →**](https://www.credly.com/badges/eea280b5-a94a-40d5-9194-4c7df4ce81e0/public_url) |
+| **German — C1 (CEFR)**<br/>Professional working proficiency · language certificate<br/><br/>![German](https://img.shields.io/badge/German-C1-2E7D32?style=flat-square) | <br/><sub>🔗 [View all verified badges on Credly →](https://www.credly.com/users/ahmed-sghaier.61242d1c)</sub> |
+
+<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
+
 ## 🐧 Open Source & Community
 
 - Presented educational material on **Ubuntu, Linux, Open Source, and OpenStack** with the *Ubuntu TunisianTeam* community
