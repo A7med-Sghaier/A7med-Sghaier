@@ -132,10 +132,24 @@ Documentation that helps projects scale · Measurable performance wins · Testin
 
 ## 🎓 Certifications
 
-| | |
-| :-- | :-- |
-| **[LFW111 — Introduction to Node.js](https://www.credly.com/badges/00c3ad03-de79-4782-896f-794ea9f895de/public_url)**<br/>The Linux Foundation · Sep 2025<br/><br/>![The Linux Foundation](https://img.shields.io/badge/The%20Linux%20Foundation-003764?style=flat-square&logo=linuxfoundation&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br/>[**Verify on Credly →**](https://www.credly.com/badges/00c3ad03-de79-4782-896f-794ea9f895de/public_url) | **[LFS101 — Introduction to Linux](https://www.credly.com/badges/eea280b5-a94a-40d5-9194-4c7df4ce81e0/public_url)**<br/>The Linux Foundation · Sep 2025 · ID `LF-s8gawrwd4p`<br/><br/>![The Linux Foundation](https://img.shields.io/badge/The%20Linux%20Foundation-003764?style=flat-square&logo=linuxfoundation&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)<br/>[**Verify on Credly →**](https://www.credly.com/badges/eea280b5-a94a-40d5-9194-4c7df4ce81e0/public_url) |
-| **German — C1 (CEFR)**<br/>Professional working proficiency · language certificate<br/><br/>![German](https://img.shields.io/badge/German-C1-2E7D32?style=flat-square) | <br/><sub>🔗 [View all verified badges on Credly →](https://www.credly.com/users/ahmed-sghaier.61242d1c)</sub> |
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.credly.com/badges/00c3ad03-de79-4782-896f-794ea9f895de/public_url"><img src="https://images.credly.com/size/340x340/images/80f8381f-784d-4872-8959-a0af8bfe9609/blob" width="130" alt="LFW111: Introduction to Node.js — verified Credly badge" /></a><br/>
+<b><a href="https://www.credly.com/badges/00c3ad03-de79-4782-896f-794ea9f895de/public_url">LFW111 — Introduction to Node.js</a></b><br/>
+The Linux Foundation · Sep 2025<br/>
+<sub>✓ Verified on Credly</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://www.credly.com/badges/eea280b5-a94a-40d5-9194-4c7df4ce81e0/public_url"><img src="https://images.credly.com/size/340x340/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="130" alt="LFS101: Introduction to Linux — verified Credly badge" /></a><br/>
+<b><a href="https://www.credly.com/badges/eea280b5-a94a-40d5-9194-4c7df4ce81e0/public_url">LFS101 — Introduction to Linux</a></b><br/>
+The Linux Foundation · Sep 2025 · ID <code>LF-s8gawrwd4p</code><br/>
+<sub>✓ Verified on Credly</sub>
+</td>
+</tr>
+</table>
+
+**🗣️ German — C1 (CEFR)** · professional working proficiency (language certificate) &nbsp;·&nbsp; 🔗 [View all verified badges on Credly →](https://www.credly.com/users/ahmed-sghaier.61242d1c)
 
 <div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
 
