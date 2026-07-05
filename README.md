@@ -132,6 +132,8 @@ Documentation that helps projects scale · Measurable performance wins · Testin
 
 ## 🎓 Certifications
 
+### 🐧 The Linux Foundation <sub>· verified on Credly</sub>
+
 <table>
 <tr>
 <td align="center" width="50%">
@@ -149,7 +151,13 @@ The Linux Foundation · Sep 2025 · ID <code>LF-s8gawrwd4p</code><br/>
 </tr>
 </table>
 
-**🗣️ German — C1 (CEFR)** · professional working proficiency (language certificate) &nbsp;·&nbsp; 🔗 [View all verified badges on Credly →](https://www.credly.com/users/ahmed-sghaier.61242d1c)
+<sub>🔗 <a href="https://www.credly.com/users/ahmed-sghaier.61242d1c">View all badges on my Credly profile →</a></sub>
+
+### 🗣️ Language Certificate
+
+- **German — C1** (CEFR) · certified professional working proficiency
+
+<sub>Full language proficiencies are listed in [About Me](#-about-me).</sub>
 
 <div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
 
