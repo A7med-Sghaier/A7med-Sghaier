@@ -11,6 +11,10 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=760&lines=Senior+Full-Stack+Engineer+%C2%B7+8%2B+years;I+ship+data-heavy+products+end-to-end;Frontend+%C2%B7+APIs+%C2%B7+Databases+%C2%B7+CI%2FCD+%C2%B7+ML;From+first+commit+to+production+support" alt="Senior Full-Stack Engineer — I ship data-heavy products end-to-end" />
+
+<br/>
+
 <img src="./assets/highlights.svg" width="100%" alt="Impact at a glance: 8+ years, 2.5s to 700ms, 50GB+ pipeline growth avoided, BMW · LBBW · bulwiengesa" />
 
 </div>
@@ -158,6 +162,25 @@ The Linux Foundation · Sep 2025 · ID <code>LF-s8gawrwd4p</code><br/>
 - **German — C1** (CEFR) · certified professional working proficiency
 
 <sub>Full language proficiencies are listed in [About Me](#-about-me).</sub>
+
+<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=A7med-Sghaier&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=2dd4bf&icon_color=38bdf8&text_color=aeb9cc&ring_color=38bdf8" alt="Ahmed Sghaier's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7med-Sghaier&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=2dd4bf&text_color=aeb9cc" alt="Top languages" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=A7med-Sghaier&hide_border=true&background=0d1117&stroke=1b2436&ring=38bdf8&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=aeb9cc&dates=6b7280&currStreakNum=e6edf3&sideNums=e6edf3&dayLabelColor=aeb9cc" alt="GitHub streak" />
+
+<br/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=A7med-Sghaier&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
+
+</div>
 
 <div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
 
